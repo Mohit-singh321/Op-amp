@@ -64,7 +64,4 @@ Advantage of Non Inverting op-amp
 4.	Adjustable gain: The non-inverting op-amp circuit has an adjustable gain, which can be easily changed by adjusting the ratio of the feedback resistor to the input resistor. This makes it ideal for use in circuits where the gain needs to be adjusted based on the specific requirements of the application.
 5.	Low noise: The non-inverting op-amp circuit has a low noise level, which means that it can amplify signals without adding significant noise to the output. This makes it ideal for use in circuits where the signal needs to be amplified without adding noise or distortion, such as in audio amplifier circuits.
 
-Link of my Repository
-Link- 
-https://github.com/Mohit-singh321/Op-amp/blob/main/Op%20amp%20blog.docx
 
